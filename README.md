@@ -1,7 +1,7 @@
 ![Profile visit badge](https://komarev.com/ghpvc/?username=shahnur07&style=flat-square)
 ## Hi there 👋 I'm @shahnur07
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shahnur+Islam;Aspiring+Software+Developer;Web+Development;from+Bangladesh+bd)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shahnur+Islam;Aspiring+Software+Developer;Web+Development;from+Bangladesh)
 
 ---
 
@@ -18,10 +18,17 @@
 ## 🧰 Tools I Use
 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![visualstudio](https://skillicons.dev/icons?i=visualstudio)
+![pycharm](https://skillicons.dev/icons?i=pycharm)
+![idea](https://skillicons.dev/icons?i=idea)
+![arduino](https://skillicons.dev/icons?i=arduino)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Windows](https://skillicons.dev/icons?i=windows)
+![linux](https://skillicons.dev/icons?i=linux)
 ![Figma](https://skillicons.dev/icons?i=figma)
+![arch](https://skillicons.dev/icons?i=arch)
+
 
 <div align="center">
   <br>
