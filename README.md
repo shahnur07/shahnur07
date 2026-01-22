@@ -160,6 +160,7 @@ A robotics project combining Arduino programming with physical components.
 </p>
 
 ---
+## 🧩 Contribution Graph
 [![Shahnur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahnur07&theme=github-dark&area=true&hide_border=true)](https://github.com/shahnur07/github-readme-activity-graph)
 
 ---
